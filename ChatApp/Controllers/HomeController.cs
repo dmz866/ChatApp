@@ -3,7 +3,7 @@
 namespace ChatApp.Controllers
 {
     public class HomeController : Controller
-    {
+    {        
         public ActionResult Login()
         {
             return View();

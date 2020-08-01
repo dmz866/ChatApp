@@ -19,7 +19,7 @@ namespace ChatApp.Infrastructure.Services
         {
             try
             {
-                var response = await _client.GetAsync(Constants.STOCK_API_URL + stockCode);
+                var response = await _client.GetAsync(Constants.STOCK_API_URL + stockCode.Replace(Constants.COMMAND_STOCK, string.Empty));
                 var content = response.Content.ReadAsStringAsync().Result;                
             }
             catch(Exception ex)

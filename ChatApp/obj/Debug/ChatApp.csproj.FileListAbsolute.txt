@@ -92,3 +92,15 @@ C:\Users\David\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
 C:\Users\David\source\repos\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
 C:\Users\David\source\repos\ChatApp\ChatApp\bin\ChatApp.Core.dll
 C:\Users\David\source\repos\ChatApp\ChatApp\bin\ChatApp.Core.pdb
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\ChatApp.Infrastructure.dll
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\ChatApp.Infrastructure.pdb
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\David\source\repos\ChatApp\ChatApp\bin\System.Threading.Tasks.Extensions.xml
